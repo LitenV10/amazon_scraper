@@ -1,0 +1,6 @@
+camoufox[geoip]
+httpx
+beautifulsoup4
+lxml
+fastapi
+uvicorn
